@@ -19,6 +19,6 @@ public class Calculator {
 	}
 
 	public int square(int num1) {
-		return (int) Math.sqrt(num1);
+		return num1 * num1;
 	}
 }
